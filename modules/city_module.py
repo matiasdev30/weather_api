@@ -1,4 +1,3 @@
-from xmlrpc.client import DateTime
 from pydantic import BaseModel
 
 class CityModel(BaseModel):
