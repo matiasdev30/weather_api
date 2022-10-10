@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from utils import scrappy_data
+from repository import scrappy_data
 from modules import CityModel
 
 app = FastAPI()
