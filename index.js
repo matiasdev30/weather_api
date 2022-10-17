@@ -1,4 +1,5 @@
 
+console.log('compress img ins on')
 /* Compreensão de immages é processo de minimizar o tamanho de uma imagem
 basicamente vamos fazer a perca de dados na imagem, que pode ser muitas das vezes menos profunda
 que só atua em dados menos criticos, e mais profundas como, perca da qualidade de imagem
